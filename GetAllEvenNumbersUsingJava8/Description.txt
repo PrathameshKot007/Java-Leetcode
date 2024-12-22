@@ -1,0 +1,1 @@
+Provided a list of numbers, get the list which contains only even numbers.
